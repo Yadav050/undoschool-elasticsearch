@@ -123,6 +123,6 @@ The application is production-ready and can be easily extended with additional f
 
 ---
 
-**Student:** [Your Name]  
+**Student:** [Anmol Yadav]  
 **Date:** July 12, 2025  
 **Assignment:** Spring Boot with Elasticsearch Integration 
